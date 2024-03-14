@@ -64,5 +64,6 @@
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/opsec-bot/count.svg" alt="visitor counter">
+  <img src="https://count.getloli.com/get/@:obsec-bot" alt=":opsec-bot">
 </p>
+
