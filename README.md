@@ -7,28 +7,32 @@
 <p align="center">
     - 💻 <a href="https://t.me/ebthit">Telegram - ebthit</a> 💻 -
 </p>
-<p align="center">
-  <img src="./images/light-bar.gif" width="500" alt="Separator">
-</p>
 
 <p align="center">
   <strong>Backend Developer | Code Enthusiast</strong>
 </p>
 
 <p align="center">
+  <img src="./images/light-bar.gif" width="1000" alt="Separator">
+</p>
+<p align="center">
+  <img src="./images/rotate-light-bar.gif" alt="|" width="1" height="150" align="left"/>
+  <img src="./images/rotate-light-bar.gif" alt="|" width="1" height="150" align="right"/>
   🔭 <strong>Currently Working On:</strong> Backend solutions using JS, TS, C++, C#, Go, and Rust.<br>
   🌱 <strong>Learning:</strong> Deep diving into Rust and exploring advanced backend architectures.<br>
   👯 <strong>Collaborating:</strong> Have an idea? Let's see what we can create together.<br>
   💬 <strong>Ask Me About:</strong> Backend tips, coding in various languages.<br>
+  <strong>🤖 Projects you should check out:</strong><br>
+  - <strong>Info Hider:</strong> A Tampermonkey script to hide your personal info while you browse.<br>
+</p>
+
+<p align="center">
+  <img src="./images/light-bar.gif" width="1000" alt="Separator">
 </p>
 
 <p align="center">
   <strong>🤖 Projects you should check out:</strong><br>
   - <strong>Info Hider:</strong> A Tampermonkey script to hide your personal info while you browse.
-</p>
-
-<p align="center">
-  <img src="./images/light-bar.gif" width="500" alt="Separator">
 </p>
 
 <p align="center">
