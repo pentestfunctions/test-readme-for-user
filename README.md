@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <img src="https://count.getloli.com/get/@:obsec-bot" alt=":opsec-bot">
+</p>
+
+<p align="center">
   <img src="./images/light-bar.gif" width="1000" alt="Separator">
 </p>
 <p align="center">
@@ -67,7 +71,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-<p align="center">
-  <img src="https://count.getloli.com/get/@:obsec-bot" alt=":opsec-bot">
-</p>
 
