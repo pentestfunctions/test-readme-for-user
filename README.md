@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/opsec-bot.png" alt="opsec-bot logo">
+  <img src="images/alt-image.png" alt="opsec-bot logo">
 </p>
 <p align="center">
     🗨️ "You're never gonna make it in life, Alejandro." - 4th-grade ELA teacher 🗨️
