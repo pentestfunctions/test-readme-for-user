@@ -5,59 +5,63 @@
     🗨️ "You're never gonna make it in life, Alejandro." - 4th-grade ELA teacher 🗨️
 </p>
 <p align="center">
-    - 💻 <a href="https://t.me/ebthit">Telegram - ebthit </a> 💻 -
+    - 💻 <a href="https://t.me/ebthit">Telegram - ebthit</a> 💻 -
 </p>
 <p align="center">
   <img src="./images/light-bar.gif" width="500" alt="Separator">
 </p>
 
-## Backend Developer | Code Enthusiast
+<p align="center">
+  <strong>Backend Developer | Code Enthusiast</strong>
+</p>
 
-- 🔭 **Currently Working On:** Backend solutions using JS, TS, C++, C#, Go, and Rust.
-- 🌱 **Learning:** Deep diving into Rust and exploring advanced backend architectures.
-- 👯 **Collaborating:** Have an idea? Let's see what we can create together.
-- 💬 **Ask Me About:** Backend tips, coding in various languages.
+<p align="center">
+  🔭 <strong>Currently Working On:</strong> Backend solutions using JS, TS, C++, C#, Go, and Rust.<br>
+  🌱 <strong>Learning:</strong> Deep diving into Rust and exploring advanced backend architectures.<br>
+  👯 <strong>Collaborating:</strong> Have an idea? Let's see what we can create together.<br>
+  💬 <strong>Ask Me About:</strong> Backend tips, coding in various languages.<br>
+</p>
 
-### 🤖 Projects you should check out:
-
-- **Info Hider:** A Tampermonkey script to hide your personal info while you browse.
+<p align="center">
+  <strong>🤖 Projects you should check out:</strong><br>
+  - <strong>Info Hider:</strong> A Tampermonkey script to hide your personal info while you browse.
+</p>
 
 <p align="center">
   <img src="./images/light-bar.gif" width="500" alt="Separator">
 </p>
 
-### Languages and Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript badge">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript badge">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ badge">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C# badge">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go badge">
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust badge">
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+<p align="center">
+  <strong>📚 Must-Check Resources for Backend Skid Ninjas</strong><br>
+  <a href="https://backend.dev/101">Backend Basics</a><br>
+  <a href="https://api-design.nodejs.org/">API Mastery</a><br>
+  <a href="https://go.dev/talks/concurrency">Concurrency Chronicles</a>
+</p>
 
-### 📚 Must-Check Resources for Backend Skid Ninjas
-
-- **Backend Basics:** [Backend Development 101](https://backend.dev/101)
-- **API Mastery:** [API Design in Node.js](https://api-design.nodejs.org/)
-- **Concurrency Chronicles:** [Go Concurrency Patterns](https://go.dev/talks/concurrency)
-
-### 📺 Inspirational & Educational Content
-
-- [JavaScript: The Weird Parts](https://www.youtube.com/watch?v=bEjnZeZEqSY)
-- [TypeScript for Beginners](https://www.youtube.com/watch?v=BwuLxPH8IDs)
-- [Rust: Memory Safety without Garbage Collection](https://www.youtube.com/watch?v=d1uraoHM8Gg)
+<p align="center">
+  <strong>📺 Inspirational & Educational Content</strong><br>
+  <a href="https://www.youtube.com/watch?v=bEjnZeZEqSY">JavaScript: The Weird Parts</a><br>
+  <a href="https://www.youtube.com/watch?v=BwuLxPH8IDs">TypeScript for Beginners</a><br>
+  <a href="https://www.youtube.com/watch?v=d1uraoHM8Gg">Rust: Memory Safety without Garbage Collection</a>
+</p>
 
 <p align="center">
   <img src="./images/light-bar.gif" width="500" alt="Separator">
 </p>
 
-<div align="center">
-
-### 📈 GitHub Stats
-
-![opsec-bot's GitHub Stats](https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight)
-
-</div>
+<p align="center">
+  <strong>📈 GitHub Stats</strong><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=opsec-bot&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
 
 <p align="center">
   <img src="https://profile-counter.glitch.me/opsec-bot/count.svg" alt="visitor counter">
